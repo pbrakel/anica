@@ -1,7 +1,9 @@
 # Adversarial Non-linear Independent Component Analysis
 
-This is an implementation of the work descriped in the ICML workshop paper titled
+This is an implementation of the work descriped in the ICML 2017 workshop on implicit models titled
 "Maximizing Independence with GANs for Non-linear ICA"
+
+ArXiv version (with a slightly different title): [https://arxiv.org/abs/1710.05050]
 
 ### Dependencies
 
